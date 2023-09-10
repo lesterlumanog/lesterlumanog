@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Cybersecurity Audits</b>
-  - [Practicing Cybersecurity Interal Audits](https://github.com/lesterlumanog/Google-Cybersecurity-Internal-Audit-Lab)
+  - [Cybersecurity Interal Audits](https://github.com/lesterlumanog/Google-Cybersecurity-Internal-Audit-Lab)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/URL)
  
