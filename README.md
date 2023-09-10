@@ -5,7 +5,7 @@
 - <b>Cybersecurity Audits</b>
   - [Security Interal Audits](https://github.com/lesterlumanog/Google-Cybersecurity-Internal-Audit-Lab)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/URL)
+  - [Placeholder for Python Project](https://github.com/joshmadakor1/URL)
  
 <h2>Certifications</h2>
 
