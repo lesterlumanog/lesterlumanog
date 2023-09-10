@@ -3,9 +3,13 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Cybersecurity Audits</b>
-  - [Praciting Cybersecurity Interal Audits](https://github.com/joshmadakor1/URL)
+  - [Practicing Cybersecurity Interal Audits](https://github.com/joshmadakor1/URL)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/URL)
+ 
+<h2>Certifications</h2>
+
+- [Placeholder Google Cybersecurity Certification](https://www.youtube.com/watch?v=a83ASGn_V_s/YoutubeURL)
 
 <h2>📺 YouTube Videos</h2>
 
