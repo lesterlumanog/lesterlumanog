@@ -3,13 +3,13 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Cybersecurity Audits</b>
-  - [Praciting Cybersecurity Interal Audits](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting Cybersecurity Interal Audits](https://github.com/joshmadakor1/URL)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/URL)
 
 <h2>📺 YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Placeholder for Youtube Videos](https://www.youtube.com/watch?v=a83ASGn_V_s/YoutubeURL)
 
 
 <h2> 🤳 Connect with me:</h2>
