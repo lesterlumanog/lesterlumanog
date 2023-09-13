@@ -9,7 +9,7 @@
  
 <h2>Certifications</h2>
 
-- [Placeholder Google Cybersecurity Certification](https://www.youtube.com/)
+- [Placeholder for Google Cybersecurity Certification](https://www.youtube.com/)
 
 <h2>📺 YouTube Videos</h2>
 
