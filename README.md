@@ -5,7 +5,7 @@
 - <b>Cybersecurity Audits</b>
   - [Security Interal Audits](https://github.com/lesterlumanog/Google-Cybersecurity-Internal-Audit-Lab)
 - <b>Python</b>
-  - [Placeholder for Python Project](https://github.com/joshmadakor1/URL)
+  - [Placeholder for Python Project](https://github.com/)
  
 <h2>Certifications</h2>
 
