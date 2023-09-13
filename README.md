@@ -13,7 +13,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [Placeholder for Youtube Videos](https://www.youtube.com/watch?v=a83ASGn_V_s/YoutubeURL)
+- [Placeholder for Youtube Videos](https://www.youtube.com/)
 
 
 <h2> 🤳 Connect with me:</h2>
