@@ -4,6 +4,7 @@
 
 - <b>Cybersecurity Audits</b>
   - [Security Interal Audits](https://github.com/lesterlumanog/Google-Cybersecurity-Internal-Audit-Lab)
+  - [Applying the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF)](https://github.com/lesterlumanog/Google-Cybersecurity-Internal-Audit-Lab)
 - <b>Python</b>
   - [Placeholder for Python Project](https://github.com/)
  
