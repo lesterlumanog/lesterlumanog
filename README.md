@@ -8,9 +8,11 @@
 - <b>National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF)</b>
   - [Applying the NIST CSF](https://github.com/lesterlumanog/Google-Cybersecurity-Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident)
  
+- <b>SQL queries</b>
+    - [Apply filters to SQL queries](https://github.com/lesterlumanog/Google-Cybersecurity-Apply-Filters-To-SQL-Queries/tree/main/README.md)
+ 
 - <b>Using Linux commands</b>
-  - [Apply filters to SQL queries](https://github.com/lesterlumanog/Google-Cybersecurity-Apply-Filters-To-SQL-Queries/tree/main/README.md)
-  - [Using Linux commands to manage permissions for files and directories](https://github.com/lesterlumanog/Google-Cybersecurity-Use-Linux_Commands-to-Manage-Permissions/blob/main/README.md)
+    - [Using Linux commands to manage permissions for files and directories](https://github.com/lesterlumanog/Google-Cybersecurity-Use-Linux_Commands-to-Manage-Permissions/blob/main/README.md)
   
 - <b>Python</b>
   - [Placeholder for Python Project](https://github.com/)
