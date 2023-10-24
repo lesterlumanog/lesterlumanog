@@ -13,6 +13,9 @@
  
 - <b>Using Linux commands</b>
     - [Using Linux commands to manage permissions for files and directories](https://github.com/lesterlumanog/Google-Cybersecurity-Use-Linux_Commands-to-Manage-Permissions/blob/main/README.md)
+ 
+- <b>Analyzing vulnerabilities</b>
+    - [Analyzing a vulnerable system for a small business](https://github.com/lesterlumanog/Google-Cybersecurity-Lab-Activity-Analyze-A-Vulnerable-System-For-A-Small-Business)
   
 - <b>Python</b>
   - [Placeholder for Python Project](https://github.com/)
